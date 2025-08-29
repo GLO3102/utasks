@@ -4,4 +4,4 @@ utasks est le dépôt contenant toutes les ressources nécessaires à la réalis
 Il est bien important de lire les pages suivantes:
 
 * [Énoncé](https://github.com/GLO3102/utasks/blob/master/Enonce.md)
-* [Remises](https://github.com/GLO3112/ugram/blob/master/Remises.md)
+* [Remises](https://github.com/GLO3102/utasks/blob/master/Remises.md)

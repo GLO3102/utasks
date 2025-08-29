@@ -35,6 +35,5 @@ Les fonctionnalités demandées sont les mêmes pour les deux livrables.
 - Les drag and drop des cartes et des listes doivent être fluides et dignes d’une application professionnelle pour avoir tous vos points. Pensez aux différentes applications que vous connaissez qui permettent ce type d'action.  
 - Faites attention à la qualité visuelle de votre travail : la première itération évalue vos capacités à faire un front-end efficace et plaisant pour l’œil.
 - Une grande partie du travail consiste également à jouer avec l’API et à comprendre son fonctionnement sachant que la documentation est limitée à quelques endpoints.     
-- L'application doit être entièrement en anglais. 
 
 ---
