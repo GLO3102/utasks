@@ -5,3 +5,9 @@ Il est bien important de lire les pages suivantes:
 
 * [Énoncé](https://github.com/GLO3102/utasks/blob/master/Enonce.md)
 * [Remises](https://github.com/GLO3102/utasks/blob/master/Remises.md)
+
+### API
+
+L'api se trouve à [https://utasks-026af75f15a3.herokuapp.com/](https://utasks-026af75f15a3.herokuapp.com/).
+
+Voir la documentation de l'API [ici](https://utasks-026af75f15a3.herokuapp.com/docs)

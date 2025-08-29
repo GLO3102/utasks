@@ -24,11 +24,15 @@ Pour chaque livrable, les équipes devront suivre la procédure suivante:
 
 La branche ne doit plus être touchée une fois la date de remise passée. Une modification de la branche après la date de remise peut entraîner de fortes pénalités. Les correcteurs utiliseront le code directement sur GitHub.
 
+Notez que pour le livrable 2, il est fortement suggéré d'avoir un dossier `frontend` et un dossier `backend` dans le même dépôt.
+
 ## Grille de correction
+
+#### Livrable 1
 
 | Tâche | Note |
 |-------|------|
-| Pouvoir se créer un utilisateur ou se connecter | /3 |
+| Pouvoir se créer un utilisateur | /3 |
 | Pouvoir créer un _board_ avec mon utilisateur | /5 |
 | Pouvoir créer une liste et l'associer à un _board_ | /5 |
 | Pouvoir créer une carte et l'associer à une liste | /5 |
@@ -40,6 +44,26 @@ La branche ne doit plus être touchée une fois la date de remise passée. Une m
 | Ordonner les cartes selon leur dates et priorité dans une liste | /15 |
 | Gestion d'erreur | /8 |
 | Présentation et qualité du code | /8 |
+| **Total** | **/100** |
+
+#### Livrable 2
+
+Notez que la majorité des critères sont les mêmes, mais évalués de manière _full-stack_.
+
+| Tâche | Note |
+|-------|------|
+| Pouvoir se connecter, s'enregistrer et se déconnecter | /10 |
+| Pouvoir créer un _board_ avec mon utilisateur | /5 |
+| Pouvoir créer une liste et l'associer à un _board_ | /5 |
+| Pouvoir créer une carte et l'associer à une liste | /5 |
+| Visualiser ses _boards_, listes et cartes | /5 |
+| Modifier ses _boards_, listes et cartes | /5 |
+| Supprimer ses _boards_, listes et cartes | /5 |
+| Chat en temps réel| /20 |
+| Ordonner les cartes selon leur dates et priorité dans une liste | /15 |
+| Gestion d'erreur | /10 |
+| Présentation et qualité du code | /10 |
+| Utilisabilité | /10 |
 | **Total** | **/100** |
 
 ### Pénalités

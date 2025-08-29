@@ -8,15 +8,13 @@ Dans le cadre de la **remise 1**, vous aurez à réaliser la partie **UI (front-
 Pour le premier livrable, vous aurez accès à un **backend simplifié** qui vous permettra de réaliser une première itération pour l’application.  
 Vous devrez vous servir de ce backend pour réaliser les features demandées. Utilisez la documentation de l’API pour vous aider.
 
-Pour le deuxième livrable, vous devez simplement recréer le backend de l'applicaiton en question, afin de fournir une application complète.
-
-Les fonctionnalités demandées sont les mêmes pour les deux livrables.
+Pour le deuxième livrable, vous devrez recréer le backend de l'application en question afin de fournir une application complète, ainsi que deux fonctionnalités supplémentaires.
 
 ---
 
 ## Fonctionnalités demandées
 
-### Fonctionnalités de base
+### Fonctionnalités livrable 1
 1. Créer un usager  
 2. Se connecter avec son nom d'usager
 3. Créer des _boards_  
@@ -27,6 +25,11 @@ Les fonctionnalités demandées sont les mêmes pour les deux livrables.
 8. Supporter le drag and drop les cartes d’une listes à l’autre
 9. Supporter le drag and drop (ré-ordonner) les listes dans un board (ex : je sélectionne la liste 1 et l’interchange avec la liste 3)
 10. Ordonner les cartes d’une liste selon leur priorité et/ou leur due-date
+
+### Fonctionnalités livrable 2
+Toutes les mêmes fonctionnalités que le livrable 1 (incluant le backend), ainsi que:
+1. Supporter l'authentification (login, logout, token)
+2. Chat temps réel entre usagers
 
 ---
 
