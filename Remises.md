@@ -67,6 +67,5 @@ Notez que la majorité des critères sont les mêmes, mais évalués de manière
 | **Total** | **/100** |
 
 ### Pénalités
-- Application non-responsive : **-10**  
-- Application ne démarrant pas : **-10**
-- Mauvaise utilisabilité : **-10**
+- Application ne démarrant pas : **-20**
+- Application non-responsive : **-10**
