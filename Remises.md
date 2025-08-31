@@ -67,5 +67,5 @@ Notez que la majorité des critères sont les mêmes, mais évalués de manière
 | **Total** | **/100** |
 
 ### Pénalités
-- Application ne démarrant pas : **-20**
+- Application ne démarrant pas : minimum **-20**
 - Application non-responsive : **-10**
