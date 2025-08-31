@@ -37,6 +37,6 @@ Toutes les mêmes fonctionnalités que le livrable 1 (incluant le backend), ains
 
 - Les drag and drop des cartes et des listes doivent être fluides et dignes d’une application professionnelle pour avoir tous vos points. Pensez aux différentes applications que vous connaissez qui permettent ce type d'action.  
 - Faites attention à la qualité visuelle de votre travail : la première itération évalue vos capacités à faire un front-end efficace et plaisant pour l’œil.
-- Une grande partie du travail consiste également à jouer avec l’API et à comprendre son fonctionnement sachant que la documentation est limitée à quelques endpoints.     
+- Une grande partie du travail consiste également à jouer avec l’API et à comprendre son fonctionnement. Utilisez le Swagger de l'API fourni pour vous aider! 
 
 ---
